@@ -1,5 +1,6 @@
 html {
     height: 100vh;
+    background-color: red;
 }
 
 body {
@@ -31,6 +32,8 @@ footer {
 ul {
     list-style-type: decimal;
     padding: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 li {
