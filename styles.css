@@ -37,4 +37,6 @@ main {
     justify-content: center;
     align-items: center;
 }
-  
+.custom-button{
+  background-color: blue;
+}
